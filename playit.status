@@ -1035,3 +1035,34 @@ login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAzqqgAAAZKiA21tAAA
 TUNNELS
 live-seemed.gl.at.ply.gg:2126 => 127.0.0.1:2126 (proto: Udp, port count: 1)
 study-iron.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729294999050 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAzqqgAAAZKiA21tAAAAAQAAAAEAAAAAAAAAAOUqchBkRZ7Q3JSRe-iXan9gtHdsuwIRTf7Q_WvaJrX8
+
+TUNNELS
+live-seemed.gl.at.ply.gg:2126 => 127.0.0.1:2126 (proto: Udp, port count: 1)
+study-iron.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729295002116 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAzqqgAAAZKiA6owAAAAAQAAAAEAAAAAAAAAAP94pQoBmoaQz32qF82dohnZg2EiKo_PDCXlxaQgLBok
+
+TUNNELS
+live-seemed.gl.at.ply.gg:2126 => 127.0.0.1:2126 (proto: Udp, port count: 1)
+study-iron.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729295005246 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAzqqgAAAZKiA6owAAAAAQAAAAEAAAAAAAAAAP94pQoBmoaQz32qF82dohnZg2EiKo_PDCXlxaQgLBok
+
+TUNNELS
+live-seemed.gl.at.ply.gg:2126 => 127.0.0.1:2126 (proto: Udp, port count: 1)
+study-iron.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729295008308 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAzqqgAAAZKiA6owAAAAAQAAAAEAAAAAAAAAAP94pQoBmoaQz32qF82dohnZg2EiKo_PDCXlxaQgLBok
+
+TUNNELS
+live-seemed.gl.at.ply.gg:2126 => 127.0.0.1:2126 (proto: Udp, port count: 1)
+study-iron.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
